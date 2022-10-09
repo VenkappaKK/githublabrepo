@@ -1,2 +1,3 @@
 this is VK sample git hub
 This is updated line
+This line is updated in Dev branch from gui.
